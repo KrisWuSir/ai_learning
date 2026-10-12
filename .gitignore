@@ -1,0 +1,17 @@
+# 本地数据，不提交
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 编辑器
+.vscode/
+
+# 敏感信息（防止误提交）
+.env
+*.key
